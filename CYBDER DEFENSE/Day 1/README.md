@@ -1,6 +1,8 @@
 # Day 1 - Cyber Defense Introduction
 
-## Topics Learned
+In this topic, I will be learning the basics of networking, host-based systems, and active directory. The following rooms will give me the foundational knowledge needed to grasp more advanced concepts.
+
+## Rooms
 - Introductory Networking
 - Network Services
 - Network Services 2
@@ -8,7 +10,7 @@
 - Windows Fundamentals 1
 - Active Directory Basics
 
-### Introductory Networking
+### Room 1: Introductory Networking
 In this room, I gaineed knowledge on basic principles of networking. Since networking is a _massive_ topic, this roomp provided an overciew, and some foundational knowledge in the following topics:
 - The OSI Model
 - The TCP/IP Model
