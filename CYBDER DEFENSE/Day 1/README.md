@@ -11,7 +11,7 @@ In this topic, I will be learning the basics of networking, host-based systems, 
 - Active Directory Basics
 
 ### Room 1: Introductory Networking
-In this room, I gaineed knowledge on basic principles of networking. Since networking is a _massive_ topic, this roomp provided an overciew, and some foundational knowledge in the following topics:
+In this room, I gained knowledge on basic principles of networking. Since networking is a _massive_ topic, this roomp provided an overciew, and some foundational knowledge in the following topics:
 - The OSI Model
 - The TCP/IP Model
 - How these models look in practice
