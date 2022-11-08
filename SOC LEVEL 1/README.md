@@ -1,4 +1,4 @@
-<h1 align="center">PRE SECURITY
+<h1 align="center">SOC LEVEL 1
 </h1>
 
 ![SOC Level 1](https://assets.tryhackme.com/img/paths/SOCL1.svg)
