@@ -1,6 +1,6 @@
 <h1 align="center">CYBER DEFENSE
 </h1>
 
-![Cyber Defense](https://assets.tryhackme.com/img/paths/defensivesecurity.png)
+![Pre Security](https://assets.tryhackme.com/img/paths/cyberfundamentals.png)
 
-I am currently enrolled in TryHackMe's Cyber Defense learning path where I will be learning how to analyse and defend against real world cyber threat and attacks.
+I am currently enrolled in TryHackMe's Pre Security learning path where I will be learn the pre-requisite technical knowledge to get started in cyber security.
